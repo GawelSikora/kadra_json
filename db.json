@@ -1,12 +1,33 @@
 {
 
     "sztab" : {
-    "Selekcjoner": {
-    " Fernando Santos" : "https://upload.wikimedia.org/wikipedia/commons/7/7f/Fernando_Santos_2018_%28cropped%29.jpg"
-}, 
-        "2gi Trener" : {" Fernando Justino" :  "https://cdn.record.pt/images/2016-04/img_1280x720$2016_04_29_14_18_00_1095793.jpg"} ,
-        "Trener przygotowania fizycznego" :   { "Ilidio Vale"  : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3ART8dQxboBKVYXC_UA3FmjF8HvkVmGgZw&usqp=CAU"    } 
+        
+        "czlonkowie":
+        
+        
+        [ {"pozycja": "Selekcjoner",
+           "imie"    :  " Fernando Santos" ,
+           " URL"  :   "https://upload.wikimedia.org/wikipedia/commons/7/7f/Fernando_Santos_2018_%28cropped%29.jpg" 
+          }
+
+
+          {"pozycja" : "2gi Trener" ,
+            "imie"    : " Fernando Justino" ,
+            " URL"    : "https://cdn.record.pt/images/2016-04/img_1280x720$2016_04_29_14_18_00_1095793.jpg"
+          }
+
+          {
+            "pozycja" : "Trener przygotowania fizycznego" ,
+            "imie"    : "Ilidio Vale" ,
+            " URL"    : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3ART8dQxboBKVYXC_UA3FmjF8HvkVmGgZw&usqp=CAU" 
+
+          }
+        ]
+    
+       
     },
+
+    
     "pilkarze" :  {
         "Robert Lewandowski" :  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2_kiU0EOGXgDDGOZl7gHYRoirUtSGiobcQ&usqp=CAU",
         "Wojciech Szczesny" :  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wojciech_Szcz%C4%99sny_2018.jpg" ,
