@@ -29,9 +29,51 @@
 
     
     "pilkarze" :  {
-        "Robert Lewandowski" :  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2_kiU0EOGXgDDGOZl7gHYRoirUtSGiobcQ&usqp=CAU",
-        "Wojciech Szczesny" :  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wojciech_Szcz%C4%99sny_2018.jpg" ,
-        " Kamil Glik" :  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kamil_Glik_2018.jpg"
+
+
+
+
+      "powolani" :[{
+
+
+        "1" : {
+
+          "imie" : "Robert Lewandowski" ,
+           "URL" :  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2_kiU0EOGXgDDGOZl7gHYRoirUtSGiobcQ&usqp=CAU"
+
+         },
+  "2" : {
+
+           "imie" :  "Wojciech Szczesny" ,
+           "URL" :  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wojciech_Szcz%C4%99sny_2018.jpg"
+    
+         },
+
+  "3" : {
+
+              "imie" : " Kamil Glik",
+              "URL" :  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kamil_Glik_2018.jpg"
+              
+         }
+
+
+
+    }]
+      
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
     
      }
     }
