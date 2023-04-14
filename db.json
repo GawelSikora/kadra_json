@@ -2,28 +2,28 @@
 
     "sztab" : {
         
-        "czlonkowie": {
+        "czlonkowie": [
         
         
-       "1" : {"pozycja": "Selekcjoner",
+       {"pozycja": "Selekcjoner",
            "imie"    :  " Fernando Santos" ,
            " URL"  :   "https://upload.wikimedia.org/wikipedia/commons/7/7f/Fernando_Santos_2018_%28cropped%29.jpg" 
           },
 
 
-         "2": {"pozycja" : "2gi Trener" ,
+         {"pozycja" : "2gi Trener" ,
             "imie"    : " Fernando Justino" ,
             " URL"    : "https://cdn.record.pt/images/2016-04/img_1280x720$2016_04_29_14_18_00_1095793.jpg"
           },
 
-         "3": {
+         {
             "pozycja" : "Trener przygotowania fizycznego" ,
             "imie"    : "Ilidio Vale" ,
             " URL"    : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3ART8dQxboBKVYXC_UA3FmjF8HvkVmGgZw&usqp=CAU" 
 
           }
         
-        }
+         ] 
        
     },
 
